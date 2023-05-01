@@ -1,1 +1,1 @@
-My first readme as alx student for introduction to git.
+i am glad to become a alx stdent offering software enginering course 'ALX is AMAIZING'
