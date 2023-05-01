@@ -1,1 +1,1 @@
-i am glad to become a alx stdent offering software enginering course 'ALX is AMAIZING'
+i am glad to become alx student offering software enginering course 'ALX is AMAIZING'
